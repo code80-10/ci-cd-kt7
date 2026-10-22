@@ -1,0 +1,8 @@
+Server started on port 8080
+Client connected
+Received: Keyboard;5000;2
+Calculated total: 10000
+Response sent: OK;total=10000
+Client connected
+Received: Keyboard;abc;2
+Response sent: ERROR;invalid_request
